@@ -1,0 +1,8 @@
+Roger CO
+
+git init, inicio como repositorio
+git commit, hago cambios del estado actual git add .
+git commit -m "texto referente al commit"
+git log ve el historial de commits
+git clone, traigo de la repo 
+git push origin main, la mando despues de hacer los cambios
